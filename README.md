@@ -1,4 +1,5 @@
 Emotion Recognition Using TensorFlow 🤖❤️
+
 This project focuses on recognizing human emotions from facial expressions using a Convolutional Neural Network (CNN) built with TensorFlow. The dataset is loaded directly from the 🤗 Hugging Face datasets library, making setup and experimentation fast and easy.
 
 🧠 Overview
